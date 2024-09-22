@@ -311,7 +311,7 @@ footer {
  .card-button3:hover {
   border: 1px solid #ffcaa6;
   background-color: #ffcaa6;
- }
+}
 
  .TOP {
   margin-top: 80px;
@@ -319,7 +319,9 @@ footer {
   border-top: 2px solid rgb(59, 59, 59);
   border-bottom: 2px solid rgb(59, 59, 59);
   padding-bottom: 40px;
- }
+  background-color: #2c2c2c;
+  background-size: 100% 100%;
+}
 
 h3 {
   text-align: center;
@@ -332,7 +334,7 @@ h3 {
   width: 100%;
   border-radius: .5rem;
   transition: .3s ease;
- }
+}
 
  .card-button4 {
   border: 1px solid #ffffff;
@@ -342,19 +344,178 @@ h3 {
   border-radius: 50px;
   transition: .3s ease-in-out;
   background-color: white;
- }
+}
 
  .card-img4:hover {
   transform: translateY(-25%);
   box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
- }
+}
  
  .card-button4:hover {
   border: 1px solid #ffcaa6;
   background-color: #ffcaa6;
- }
+}
+
+ .card-img5 {
+  background-image: url('https://i.ytimg.com/vi/jBcDf4FthB8/maxresdefault.jpg');
+  background-position: 51% 12%; 
+  height: 40%;
+  width: 100%;
+  border-radius: .5rem;
+  transition: .3s ease;
+}
+
+ .card-button5 {
+  border: 1px solid #ffffff;
+  display: flex;
+  padding: .3em;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: .3s ease-in-out;
+  background-color: white;
+}
+
+ .card-img5:hover {
+  transform: translateY(-25%);
+  box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+}
+ 
+ .card-button5:hover {
+  border: 1px solid #ffcaa6;
+  background-color: #ffcaa6;
+}
 
  .Cards2 {
   display: flex;
-  justify-content: center;
- }
+  justify-content: space-around;
+}
+
+ .text-title1 {
+  font-weight: 800;
+  font-size: 1em;
+  line-height: 1.5;
+  color: white;
+  text-decoration: line-through 2px solid red;
+  margin-left: 7px;
+}
+ 
+ .text-title2 {
+  font-weight: 900;
+  font-size: 1.2em;
+  line-height: 1.5;
+  color: white;
+  background-color: #242424;
+  padding-left: 13px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+.card2 {
+  margin-top: 30px;
+  width: 200px;
+  height: 370px;
+  padding: .8em;
+  background: #000000;
+  position: relative;
+  overflow: visible;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.card-img6 {
+  background-image: url('https://d1x91p7vw3vuq8.cloudfront.net/itemku-upload/202348/su9bqrajzakopaftfeymb.jpg');
+  background-position: 50.5% 11%; 
+  height: 40%;
+  width: 100%;
+  border-radius: .5rem;
+  transition: .3s ease;
+}
+
+ .card-button6 {
+  border: 1px solid #ffffff;
+  display: flex;
+  padding: .3em;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: .3s ease-in-out;
+  background-color: white;
+}
+
+ .card-img6:hover {
+  transform: translateY(-25%);
+  box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+}
+ 
+ .card-button6:hover {
+  border: 1px solid #ffcaa6;
+  background-color: #ffcaa6;
+}
+
+.Skidka {
+  margin-top: 40px;
+}
+
+.Cards3 {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-img7 {
+  background-image: url('https://www.vikingdota.com/cdn/shop/files/anti-mage.jpg?v=1721032114');
+  background-position: 46% 12%; 
+  height: 40%;
+  width: 100%;
+  border-radius: .5rem;
+  transition: .3s ease;
+}
+
+ .card-button7 {
+  border: 1px solid #ffffff;
+  display: flex;
+  padding: .3em;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: .3s ease-in-out;
+  background-color: white;
+}
+
+ .card-img7:hover {
+  transform: translateY(-25%);
+  box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+}
+ 
+ .card-button7:hover {
+  border: 1px solid #ffcaa6;
+  background-color: #ffcaa6;
+}
+
+
+.card-img8 {
+  background-image: url('https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU7plRUQ3PTRuiswcrBUhJ9KjtUt7akPQJy0szEcC9F6ZKzx9HSxaPxZr7Uwz8JsZNziL6SrdrzjQWyrkVsMTqmLNXEJgc7YVuD5BHglho4UbDm/330x192');
+  background-position: 46% 56%; 
+  height: 40%;
+  width: 100%;
+  border-radius: .5rem;
+  transition: .3s ease;
+}
+
+ .card-button8 {
+  border: 1px solid #ffffff;
+  display: flex;
+  padding: .3em;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: .3s ease-in-out;
+  background-color: white;
+}
+
+ .card-img8:hover {
+  transform: translateY(-25%);
+  box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+}
+ 
+ .card-button8:hover {
+  border: 1px solid #ffcaa6;
+  background-color: #ffcaa6;
+}
