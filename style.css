@@ -312,15 +312,6 @@ footer {
   background-color: #ffcaa6;
 }
 
- /* .TOP {
-  margin-top: 80px;
-  padding-top: 40px;
-  border-top: 2px solid rgb(59, 59, 59);
-  border-bottom: 2px solid rgb(59, 59, 59);
-  padding-bottom: 40px;
-  background-color: #2c2c2c;
-  background-size: 100% 100%;
-} */
 .TOP {
   margin-top: 80px;
   padding-top: 40px;
@@ -530,6 +521,7 @@ h3 {
   border: 1px solid #ffcaa6;
   background-color: #ffcaa6;
 }
+
 .wrapper{
   margin:  0 10%;
 }
