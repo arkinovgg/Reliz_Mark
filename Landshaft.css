@@ -270,3 +270,17 @@ footer {
     transform: translateY(-25%);
     box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
    }
+
+   .card-img3 {
+    background-image: url('img/landshaftThree.jpg');
+    background-position: 14% 75%; 
+    height: 40%;
+    width: 100%;
+    border-radius: .5rem;
+    transition: .3s ease;
+   }
+
+   .card-img3:hover {
+    transform: translateY(-25%);
+    box-shadow: rgba(49, 49, 49, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+   }
