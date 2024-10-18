@@ -1,0 +1,22 @@
+[
+    {
+        "price": 500,
+        "title": "Doll of the Dead",
+        "desc": "Pudge is here! Just so ya know.",
+        "image": "img/Pudge.jpg"
+    },
+
+    {
+        "price": 320,
+        "title": "Sakura Clan",
+        "desc": "There's no magi that I can't track and kill.",
+        "image": "img/AntiMage.webp"
+    },
+
+    {
+        "price": 45,
+        "title": "Altar Ball",
+        "desc": "Extremely unhappy sounds...",
+        "image": "img/IO.png"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "price": 1400,
+        "title": "Phantom Advent",
+        "desc": "A spectre apart… still destroys!",
+        "image": "img/Spectre.jpg"
+    },
+
+    {
+        "price": 1400,
+        "title": "Claszian Apostasy",
+        "desc": "Time is fluid. And you're drowning...",
+        "image": "img/FacelessVoid.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "price": 1400,
+        "title": "Red TB",
+        "desc": "Лишний повод меня ненавидить...",
+        "image": "img/redTB.png"
+    },
+
+    {
+        "price": 60000,
+        "title": "Yellow TB",
+        "desc": "Самый страшный враг - это ты сам...",
+        "image": "img/yellowTB.png"
+    },
+
+    {
+        "price": 60000,
+        "title": "Orange TB",
+        "desc": "Наверное, это не слишком мудро.",
+        "image": "img/orangeTB.png"
+    }
+]

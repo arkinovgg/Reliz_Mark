@@ -1,0 +1,22 @@
+[
+    {
+        "price": 180,
+        "title": "The Emerald Abyss",
+        "desc": "Красивый ландшафт о битве на пляже",
+        "image": "img/landshaftOne.jpg"
+    },
+
+    {
+        "price": 725,
+        "title": "Reef's Edge",
+        "desc": "Земля перестала выдерживает такое количество драк",
+        "image": "img/landshaftTwo.jpg"
+    },
+
+    {
+        "price": 340,
+        "title": "Overgrown Empire",
+        "desc": "Сражение в пустыне - страшное дело",
+        "image": "img/landshaftThree.jpg"
+    }
+]
