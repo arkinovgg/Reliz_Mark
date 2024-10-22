@@ -26,7 +26,7 @@ function getCardHTML(product) {
 
     return `
     <div class="card">
-          <div class="card-img" style="background-image: url('${product.image}')"></div>
+          <div class="card-img" style="background-image: url('${product.image}'); background-position: '${product.backposy}'% '${product.backposx}'% "></div>
           <div class="card-info">
               <p class="text-title">${product.title}</p>
               <p class="text-body2">${product.desc}</p>
@@ -80,7 +80,7 @@ function getCardHTML2(product) {
 
     return `
     <div class="card2">
-          <div class="card-img" style="background-image: url('${product.image}')"></div>
+          <div class="card-img" style="background-image: url('${product.image}'); background-position: '${product.backposy}'% '${product.backposx}'% "></div>
           <div class="card-info">
               <p class="text-title">${product.title}</p>
               <p class="text-body2">${product.desc}</p>
