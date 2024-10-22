@@ -3,20 +3,24 @@
         "price": 1400,
         "title": "Blade Legacy",
         "desc": "Между отвагой и глупостью тонкая грань.",
-        "image": "img/Juggernaut.jpg"
+        "image": "img/Juggernaut.jpg",
+        "card_img": 1
+
     },
 
     {
         "price": 7418,
         "title": "Dark Artistry",
         "desc": "Я - маяк мудрости в океане невежества...",
-        "image": "img/BabyVoker.png"
+        "image": "img/BabyVoker.png",
+        "card_img": 2
     },
 
     {
         "price": 1400,
         "title": "Dread Retribution",
         "desc": "Теперь у дроу одним врагом меньше...",
-        "image": "img/DrowRanger.jpg"
+        "image": "img/DrowRanger.jpg",
+        "card_img": 3
     }
 ]

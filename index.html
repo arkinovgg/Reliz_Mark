@@ -41,12 +41,12 @@
               </ul>
             </li>
           </ul>
-          <form class="d-flex" role="search">
+          <form id="searchForm" class="d-flex" role="search">
             <input class="form-control me-2" type="search" placeholder="Поиск..." aria-label="Search">
             <button class="btn btn-outline-success" type="submit">Найти</button>
           </form>
-
-          <button class="reward-btn cart-btn" id="cartBtn">
+          <button class="reward-btn cart-btn btn-cart" id="cartBtn">
+         
             <span class="IconContainer">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 60 20" class="box-top box">
                 <path stroke-linecap="round" stroke-width="4" stroke="#6A8EF6" d="M2 18L58 18"></path>
@@ -68,6 +68,7 @@
               <span class="coin"></span>
             </span>
             <span class="text">Корзина</span>
+            <span class="cart-counter">0</span>
           </button>
         </div>
       </div>
@@ -195,20 +196,29 @@
     </div> -->
 
     <section class="products" id="products">
-      <h3 class="num1"></h3>
-      <div class="container-cards products-list">
+      <div class=" Cards container-cards products-list">
         
       </div>
     </section>
 
-    <!-- <section class="products " id="products-2">
+
+    <section class="products " id="products-2">
       <h3 class="num1">САМЫЕ ПРОДАВАЕМЫЕ СКИНЫ</h3>
-      <div class="container-cards products-list-2">
+      <div class="Cards2 container-cards products-list-2">
 
-      </div>
-    </section> -->
+      </div>    
+    </section>
 
-    <div class="TOP">
+    <section class="products " id="products-3">
+    <div class="wrapper">
+      <div class="Skidka">
+        <h3>ПОПУЛЯРНЫЕ СКИДКИ</h3>
+          <div class="Cards3 container-cards products-list-3">
+
+          </div>
+        </section>
+
+    <!-- <div class="TOP">
       <h3>САМЫЕ ПРОДАВАЕМЫЕ СКИНЫ</h3>
       <div class="Cards2">
         <div class="card2">
@@ -259,8 +269,8 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="wrapper">
+    </div> -->
+    <!-- <div class="wrapper">
       <div class="Skidka">
         <h3>ПОПУЛЯРНЫЕ СКИДКИ</h3>
         <div class="Cards3">
@@ -337,7 +347,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </main>
   <footer>
     <ul class="example-2">
