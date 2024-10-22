@@ -4,7 +4,9 @@
         "new_price":500,
         "title": "Doll of the Dead",
         "desc": "Pudge is here! Just so ya know.",
-        "image": "img/Pudge.jpg"
+        "image": "img/Pudge.jpg",
+        "backposy": 50.5,
+        "backposx": 11
     },
 
     {
@@ -12,7 +14,9 @@
         "new_price":320,
         "title": "Sakura Clan",
         "desc": "There's no magi that I can't track and kill.",
-        "image": "img/AntiMage.webp"
+        "image": "img/AntiMage.webp",
+        "backposy": 46,
+        "backposx": 12
     },
 
     {
@@ -20,6 +24,8 @@
         "new_price":45,
         "title": "Altar Ball",
         "desc": "Extremely unhappy sounds...",
-        "image": "img/IO.png"
+        "image": "img/IO.png",
+        "backposy": 46,
+        "backposx": 56
     }
 ]
