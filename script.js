@@ -231,7 +231,7 @@ function getCardHTML3(product) {
     let productData = JSON.stringify(product)
 
     return `
-    <div class="card2">
+    <div class="card">
           <div class="card-img" style="background-image: url('${product.image}'); background-position: ${product.backposy}% ${product.backposx}%""></div>
           <div class="card-info">
               <p class="text-title">${product.title}</p>

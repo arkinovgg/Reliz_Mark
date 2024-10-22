@@ -9,7 +9,7 @@ body {
 }
 
 .reward-btn {
-    width: 140px;
+    width: 160px;
     height: 40px;
     background-color: #101218;
     display: flex;
@@ -49,6 +49,8 @@ body {
 }
 .cart-counter{
   color: #6a8ef6;
+  font-size: 15px;
+  margin-top: 5px;
 }
   .reward-btn:hover .IconContainer .box-top {
     transform: rotate(-45deg) translateY(-5px) translateX(-1px);
@@ -404,7 +406,9 @@ h3 {
 }
  .text-title1 {
   font-weight: 800;
-  font-size: 1em;
+  font-size: 0.8em;
+  margin-left: 0px;
+  padding-left: 0px;
   line-height: 1.5;
   color: white;
   text-decoration: line-through 2px solid red;
@@ -413,7 +417,7 @@ h3 {
  
  .text-title2 {
   font-weight: 900;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5;
   color: white;
   background-color: #242424;
