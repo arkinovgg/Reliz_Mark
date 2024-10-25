@@ -110,7 +110,6 @@ function getCookieValue(cookieName) {
     cart.addItem(product);
     console.log(cart);
   }
-  
 
 // Отримуємо дані про товари з JSON файлу
 async function getProducts() {
